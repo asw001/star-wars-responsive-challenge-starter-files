@@ -1,0 +1,30 @@
+main {
+  padding-top: 100px;
+}
+
+header {
+  background-color: #eebb44;
+  margin-bottom: 40px;
+}
+
+div	{
+
+	display: block;
+}
+
+.chars {
+  margin-bottom: 20px;
+  border: 1px solid lightgray;
+  text-align: 
+
+}
+
+.char_img {
+width: 100%;
+
+}
+
+.caption {
+
+	padding: 10px;
+}
